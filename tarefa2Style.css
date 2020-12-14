@@ -1,0 +1,40 @@
+body{
+    background-image: url(background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.mb-1{
+    background: black;
+    padding-left: 50px
+}
+
+.nav-item{
+    padding-left: 40px;
+}
+
+.menu-icon{
+    max-width: 50px;   
+}
+
+.title{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.card{
+    margin-left: 70px;
+    margin-top: 70px;
+    border-radius: 15px;
+}
+
+.card-img-top{
+    border-radius: 15px;
+}
+
+.tvimage{
+    width: 100px;
+    border-radius: 15px;
+    margin-left: 80px;
+    margin-top: 70px;
+}
